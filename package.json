@@ -1,8 +1,0 @@
-{
-  "name": "workspace",
-  "version": "0.0.0",
-  "prrivate": true,
-  "scripts": {
-    "build": "echo build complete"
-  }
-}
